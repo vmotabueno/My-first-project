@@ -13,5 +13,10 @@
     "@types/node": "^25.3.3",
     "ts-node": "^10.9.2",
     "typescript": "^5.9.3"
+  },
+
+  "dependencies": {
+    "iconv-lite": "^0.7.2",
+    "node-libcurl": "^4.1.0"
   }
 }
